@@ -1,6 +1,6 @@
 {
-	"author": "Federico Saboredo",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Federico Saboredo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
